@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>507729479562-j6b9c8ni6jgl8d775eufkibg9phrf9ru.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.507729479562-j6b9c8ni6jgl8d775eufkibg9phrf9ru</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAiVc_4fVhI-F86uVC2Ej_oiMKb7vSGIow</string>
+	<key>GCM_SENDER_ID</key>
+	<string>507729479562</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.likhitgarimella.Firebase-Practice</string>
+	<key>PROJECT_ID</key>
+	<string>firdb-practice</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firdb-practice.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:507729479562:ios:752b62a165a76ec01a2a73</string>
+	<key>DATABASE_URL</key>
+	<string>https://firdb-practice.firebaseio.com</string>
+</dict>
+</plist>
