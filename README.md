@@ -16,3 +16,5 @@ Firebase
     <td><img src="https://github.com/likhitgarimella/Firebase-CRUD-Redo/blob/master/Screenshots/2.png"></td>
   </tr>
 </table>
+
+##### Copyright © 2020 Likhit Garimella
